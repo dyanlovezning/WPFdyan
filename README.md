@@ -1,0 +1,1 @@
+"my WPF application"
